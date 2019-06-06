@@ -1,0 +1,119 @@
+D:\HOCTAP\Information_Technology\C#\Winform\QUANCAFFE\QUANCAFFE\bin\Debug\QUANCAFFE.exe.config
+D:\HOCTAP\Information_Technology\C#\Winform\QUANCAFFE\QUANCAFFE\bin\Debug\QUANCAFFE.exe
+D:\HOCTAP\Information_Technology\C#\Winform\QUANCAFFE\QUANCAFFE\bin\Debug\QUANCAFFE.pdb
+D:\HOCTAP\Information_Technology\C#\Winform\QUANCAFFE\QUANCAFFE\obj\Debug\QUANCAFFE.fLogin.resources
+D:\HOCTAP\Information_Technology\C#\Winform\QUANCAFFE\QUANCAFFE\obj\Debug\QUANCAFFE.Properties.Resources.resources
+D:\HOCTAP\Information_Technology\C#\Winform\QUANCAFFE\QUANCAFFE\obj\Debug\QUANCAFFE.csproj.GenerateResource.Cache
+D:\HOCTAP\Information_Technology\C#\Winform\QUANCAFFE\QUANCAFFE\obj\Debug\QUANCAFFE.csproj.CoreCompileInputs.cache
+D:\HOCTAP\Information_Technology\C#\Winform\QUANCAFFE\QUANCAFFE\obj\Debug\QUANCAFFE.exe
+D:\HOCTAP\Information_Technology\C#\Winform\QUANCAFFE\QUANCAFFE\obj\Debug\QUANCAFFE.pdb
+D:\HOCTAP\Information_Technology\C#\Winform\QUANCAFFE\QUANCAFFE\obj\Debug\QUANCAFFE.fManager.resources
+D:\HOCTAP\Information_Technology\C#\Winform\QUANCAFFE\QUANCAFFE\obj\Debug\QUANCAFFE.fThongTinTaiKhoan.resources
+D:\HOCTAP\Information_Technology\C#\Winform\QUANCAFFE\QUANCAFFE\obj\Debug\QUANCAFFE.fQuanLy.resources
+D:\HOCTAP\Information_Technology\C#\Winform\QUANCAFFE\QUANCAFFE\obj\Debug\QUANCAFFE.nhap.resources
+D:\HOCTAP\Information_Technology\C#\Winform\QUANCAFFE\QUANCAFFE\obj\Debug\QUANCAFFE.test.resources
+D:\HOCTAP\Information_Technology\C#\Winform\QUANCAFFE\QUANCAFFE\obj\Debug\QUANCAFFE.csprojResolveAssemblyReference.cache
+D:\HOCTAP\Information_Technology\C#\Winform\QUANCAFFE\QUANCAFFE\obj\Debug\QUANCAFFE.fDatSoLuong.resources
+D:\HOCTAP\Information_Technology\C#\Winform\QUANCAFFE\QUANCAFFE\obj\Debug\QUANCAFFE.fGopBan.resources
+D:\HOCTAP\Information_Technology\C#\Winform\QUANCAFFE . VS-19-04-2018\QUANCAFFE\bin\Debug\QUANCAFFE.exe.config
+D:\HOCTAP\Information_Technology\C#\Winform\QUANCAFFE . VS-19-04-2018\QUANCAFFE\bin\Debug\QUANCAFFE.exe
+D:\HOCTAP\Information_Technology\C#\Winform\QUANCAFFE . VS-19-04-2018\QUANCAFFE\bin\Debug\QUANCAFFE.pdb
+D:\HOCTAP\Information_Technology\C#\Winform\QUANCAFFE . VS-19-04-2018\QUANCAFFE\obj\Debug\QUANCAFFE.csprojResolveAssemblyReference.cache
+D:\HOCTAP\Information_Technology\C#\Winform\QUANCAFFE . VS-19-04-2018\QUANCAFFE\obj\Debug\QUANCAFFE.fDatSoLuong.resources
+D:\HOCTAP\Information_Technology\C#\Winform\QUANCAFFE . VS-19-04-2018\QUANCAFFE\obj\Debug\QUANCAFFE.fGopBan.resources
+D:\HOCTAP\Information_Technology\C#\Winform\QUANCAFFE . VS-19-04-2018\QUANCAFFE\obj\Debug\QUANCAFFE.fLogin.resources
+D:\HOCTAP\Information_Technology\C#\Winform\QUANCAFFE . VS-19-04-2018\QUANCAFFE\obj\Debug\QUANCAFFE.fManager.resources
+D:\HOCTAP\Information_Technology\C#\Winform\QUANCAFFE . VS-19-04-2018\QUANCAFFE\obj\Debug\QUANCAFFE.fQuanLy.resources
+D:\HOCTAP\Information_Technology\C#\Winform\QUANCAFFE . VS-19-04-2018\QUANCAFFE\obj\Debug\QUANCAFFE.fThongTinTaiKhoan.resources
+D:\HOCTAP\Information_Technology\C#\Winform\QUANCAFFE . VS-19-04-2018\QUANCAFFE\obj\Debug\QUANCAFFE.nhap.resources
+D:\HOCTAP\Information_Technology\C#\Winform\QUANCAFFE . VS-19-04-2018\QUANCAFFE\obj\Debug\QUANCAFFE.Properties.Resources.resources
+D:\HOCTAP\Information_Technology\C#\Winform\QUANCAFFE . VS-19-04-2018\QUANCAFFE\obj\Debug\QUANCAFFE.test.resources
+D:\HOCTAP\Information_Technology\C#\Winform\QUANCAFFE . VS-19-04-2018\QUANCAFFE\obj\Debug\QUANCAFFE.csproj.GenerateResource.Cache
+D:\HOCTAP\Information_Technology\C#\Winform\QUANCAFFE . VS-19-04-2018\QUANCAFFE\obj\Debug\QUANCAFFE.csproj.CoreCompileInputs.cache
+D:\HOCTAP\Information_Technology\C#\Winform\QUANCAFFE . VS-19-04-2018\QUANCAFFE\obj\Debug\QUANCAFFE.exe
+D:\HOCTAP\Information_Technology\C#\Winform\QUANCAFFE . VS-19-04-2018\QUANCAFFE\obj\Debug\QUANCAFFE.pdb
+D:\HOCTAP\Information_Technology\C#\Winform\QUANCAFFE\QUANCAFFE\obj\Debug\QUANCAFFE.fThanhToan.resources
+D:\HOCTAP\Information_Technology\C#\Winform\QUANCAFFE\QUANCAFFE\bin\Debug\EntityFramework.dll
+D:\HOCTAP\Information_Technology\C#\Winform\QUANCAFFE\QUANCAFFE\bin\Debug\EntityFramework.SqlServer.dll
+D:\HOCTAP\Information_Technology\C#\Winform\QUANCAFFE\QUANCAFFE\bin\Debug\EntityFramework.xml
+D:\HOCTAP\Information_Technology\C#\Winform\QUANCAFFE\QUANCAFFE\bin\Debug\EntityFramework.SqlServer.xml
+D:\HOCTAP\Information_Technology\C#\Winform\QUANCAFFE\QUANCAFFE\obj\Debug\QUANCAFFE.fTKDoanhThu.resources
+D:\QUANCAFFE\QUANCAFFE\bin\Debug\QUANCAFFE.exe.config
+D:\QUANCAFFE\QUANCAFFE\bin\Debug\QUANCAFFE.exe
+D:\QUANCAFFE\QUANCAFFE\bin\Debug\QUANCAFFE.pdb
+D:\QUANCAFFE\QUANCAFFE\bin\Debug\EntityFramework.dll
+D:\QUANCAFFE\QUANCAFFE\bin\Debug\EntityFramework.SqlServer.dll
+D:\QUANCAFFE\QUANCAFFE\bin\Debug\EntityFramework.xml
+D:\QUANCAFFE\QUANCAFFE\bin\Debug\EntityFramework.SqlServer.xml
+D:\QUANCAFFE\QUANCAFFE\obj\Debug\QUANCAFFE.csprojResolveAssemblyReference.cache
+D:\QUANCAFFE\QUANCAFFE\obj\Debug\QUANCAFFE.fDatSoLuong.resources
+D:\QUANCAFFE\QUANCAFFE\obj\Debug\QUANCAFFE.fGopBan.resources
+D:\QUANCAFFE\QUANCAFFE\obj\Debug\QUANCAFFE.fLogin.resources
+D:\QUANCAFFE\QUANCAFFE\obj\Debug\QUANCAFFE.fManager.resources
+D:\QUANCAFFE\QUANCAFFE\obj\Debug\QUANCAFFE.fQuanLy.resources
+D:\QUANCAFFE\QUANCAFFE\obj\Debug\QUANCAFFE.fThanhToan.resources
+D:\QUANCAFFE\QUANCAFFE\obj\Debug\QUANCAFFE.fThongTinTaiKhoan.resources
+D:\QUANCAFFE\QUANCAFFE\obj\Debug\QUANCAFFE.fTKDoanhThu.resources
+D:\QUANCAFFE\QUANCAFFE\obj\Debug\QUANCAFFE.nhap.resources
+D:\QUANCAFFE\QUANCAFFE\obj\Debug\QUANCAFFE.Properties.Resources.resources
+D:\QUANCAFFE\QUANCAFFE\obj\Debug\QUANCAFFE.test.resources
+D:\QUANCAFFE\QUANCAFFE\obj\Debug\QUANCAFFE.csproj.GenerateResource.cache
+D:\QUANCAFFE\QUANCAFFE\obj\Debug\QUANCAFFE.csproj.CoreCompileInputs.cache
+D:\QUANCAFFE\QUANCAFFE\obj\Debug\QUANCAFFE.csproj.CopyComplete
+D:\QUANCAFFE\QUANCAFFE\obj\Debug\QUANCAFFE.exe
+D:\QUANCAFFE\QUANCAFFE\obj\Debug\QUANCAFFE.pdb
+D:\HOCTAP\Documents_Year3_HK2\HE_QTCSDL\QUANCAFFE\bin\Debug\QUANCAFFE.exe.config
+D:\HOCTAP\Documents_Year3_HK2\HE_QTCSDL\QUANCAFFE\bin\Debug\QUANCAFFE.exe
+D:\HOCTAP\Documents_Year3_HK2\HE_QTCSDL\QUANCAFFE\bin\Debug\QUANCAFFE.pdb
+D:\HOCTAP\Documents_Year3_HK2\HE_QTCSDL\QUANCAFFE\bin\Debug\MaterialSkin.dll
+D:\HOCTAP\Documents_Year3_HK2\HE_QTCSDL\QUANCAFFE\obj\Debug\QUANCAFFE.csprojResolveAssemblyReference.cache
+D:\HOCTAP\Documents_Year3_HK2\HE_QTCSDL\QUANCAFFE\obj\Debug\QUANCAFFE.fDatSoLuong.resources
+D:\HOCTAP\Documents_Year3_HK2\HE_QTCSDL\QUANCAFFE\obj\Debug\QUANCAFFE.fGopBan.resources
+D:\HOCTAP\Documents_Year3_HK2\HE_QTCSDL\QUANCAFFE\obj\Debug\QUANCAFFE.fLogin.resources
+D:\HOCTAP\Documents_Year3_HK2\HE_QTCSDL\QUANCAFFE\obj\Debug\QUANCAFFE.fManager.resources
+D:\HOCTAP\Documents_Year3_HK2\HE_QTCSDL\QUANCAFFE\obj\Debug\QUANCAFFE.fQuanLy.resources
+D:\HOCTAP\Documents_Year3_HK2\HE_QTCSDL\QUANCAFFE\obj\Debug\QUANCAFFE.fThanhToan.resources
+D:\HOCTAP\Documents_Year3_HK2\HE_QTCSDL\QUANCAFFE\obj\Debug\QUANCAFFE.fThongTinTaiKhoan.resources
+D:\HOCTAP\Documents_Year3_HK2\HE_QTCSDL\QUANCAFFE\obj\Debug\QUANCAFFE.fTKDoanhThu.resources
+D:\HOCTAP\Documents_Year3_HK2\HE_QTCSDL\QUANCAFFE\obj\Debug\QUANCAFFE.Properties.Resources.resources
+D:\HOCTAP\Documents_Year3_HK2\HE_QTCSDL\QUANCAFFE\obj\Debug\QUANCAFFE.csproj.GenerateResource.Cache
+D:\HOCTAP\Documents_Year3_HK2\HE_QTCSDL\QUANCAFFE\obj\Debug\QUANCAFFE.csproj.CoreCompileInputs.cache
+D:\HOCTAP\Documents_Year3_HK2\HE_QTCSDL\QUANCAFFE\obj\Debug\QUANCAFFE.exe
+D:\HOCTAP\Documents_Year3_HK2\HE_QTCSDL\QUANCAFFE\obj\Debug\QUANCAFFE.pdb
+D:\Downloads\QUANCAFFE\NHOM8_DOAN_HQTCSDLL\QUANCAFFE\bin\Debug\QUANCAFFE.exe.config
+D:\Downloads\QUANCAFFE\NHOM8_DOAN_HQTCSDLL\QUANCAFFE\bin\Debug\QUANCAFFE.exe
+D:\Downloads\QUANCAFFE\NHOM8_DOAN_HQTCSDLL\QUANCAFFE\bin\Debug\QUANCAFFE.pdb
+D:\Downloads\QUANCAFFE\NHOM8_DOAN_HQTCSDLL\QUANCAFFE\bin\Debug\MaterialSkin.dll
+D:\Downloads\QUANCAFFE\NHOM8_DOAN_HQTCSDLL\QUANCAFFE\obj\Debug\QUANCAFFE.csprojResolveAssemblyReference.cache
+D:\Downloads\QUANCAFFE\NHOM8_DOAN_HQTCSDLL\QUANCAFFE\obj\Debug\QUANCAFFE.fDatSoLuong.resources
+D:\Downloads\QUANCAFFE\NHOM8_DOAN_HQTCSDLL\QUANCAFFE\obj\Debug\QUANCAFFE.fGopBan.resources
+D:\Downloads\QUANCAFFE\NHOM8_DOAN_HQTCSDLL\QUANCAFFE\obj\Debug\QUANCAFFE.fLogin.resources
+D:\Downloads\QUANCAFFE\NHOM8_DOAN_HQTCSDLL\QUANCAFFE\obj\Debug\QUANCAFFE.fManager.resources
+D:\Downloads\QUANCAFFE\NHOM8_DOAN_HQTCSDLL\QUANCAFFE\obj\Debug\QUANCAFFE.fQuanLy.resources
+D:\Downloads\QUANCAFFE\NHOM8_DOAN_HQTCSDLL\QUANCAFFE\obj\Debug\QUANCAFFE.fThanhToan.resources
+D:\Downloads\QUANCAFFE\NHOM8_DOAN_HQTCSDLL\QUANCAFFE\obj\Debug\QUANCAFFE.fThongTinTaiKhoan.resources
+D:\Downloads\QUANCAFFE\NHOM8_DOAN_HQTCSDLL\QUANCAFFE\obj\Debug\QUANCAFFE.fTKDoanhThu.resources
+D:\Downloads\QUANCAFFE\NHOM8_DOAN_HQTCSDLL\QUANCAFFE\obj\Debug\QUANCAFFE.Properties.Resources.resources
+D:\Downloads\QUANCAFFE\NHOM8_DOAN_HQTCSDLL\QUANCAFFE\obj\Debug\QUANCAFFE.csproj.GenerateResource.Cache
+D:\Downloads\QUANCAFFE\NHOM8_DOAN_HQTCSDLL\QUANCAFFE\obj\Debug\QUANCAFFE.csproj.CoreCompileInputs.cache
+D:\Downloads\QUANCAFFE\NHOM8_DOAN_HQTCSDLL\QUANCAFFE\obj\Debug\QUANCAFFE.exe
+D:\Downloads\QUANCAFFE\NHOM8_DOAN_HQTCSDLL\QUANCAFFE\obj\Debug\QUANCAFFE.pdb
+F:\QUANCAFFE\NHOM8_DOAN_HQTCSDLL\QUANCAFFE\bin\Debug\QUANCAFFE.exe.config
+F:\QUANCAFFE\NHOM8_DOAN_HQTCSDLL\QUANCAFFE\bin\Debug\QUANCAFFE.exe
+F:\QUANCAFFE\NHOM8_DOAN_HQTCSDLL\QUANCAFFE\bin\Debug\QUANCAFFE.pdb
+F:\QUANCAFFE\NHOM8_DOAN_HQTCSDLL\QUANCAFFE\bin\Debug\MaterialSkin.dll
+F:\QUANCAFFE\NHOM8_DOAN_HQTCSDLL\QUANCAFFE\obj\Debug\QUANCAFFE.csprojAssemblyReference.cache
+F:\QUANCAFFE\NHOM8_DOAN_HQTCSDLL\QUANCAFFE\obj\Debug\QUANCAFFE.fDatSoLuong.resources
+F:\QUANCAFFE\NHOM8_DOAN_HQTCSDLL\QUANCAFFE\obj\Debug\QUANCAFFE.fGopBan.resources
+F:\QUANCAFFE\NHOM8_DOAN_HQTCSDLL\QUANCAFFE\obj\Debug\QUANCAFFE.fLogin.resources
+F:\QUANCAFFE\NHOM8_DOAN_HQTCSDLL\QUANCAFFE\obj\Debug\QUANCAFFE.fManager.resources
+F:\QUANCAFFE\NHOM8_DOAN_HQTCSDLL\QUANCAFFE\obj\Debug\QUANCAFFE.fQuanLy.resources
+F:\QUANCAFFE\NHOM8_DOAN_HQTCSDLL\QUANCAFFE\obj\Debug\QUANCAFFE.fThanhToan.resources
+F:\QUANCAFFE\NHOM8_DOAN_HQTCSDLL\QUANCAFFE\obj\Debug\QUANCAFFE.fThongTinTaiKhoan.resources
+F:\QUANCAFFE\NHOM8_DOAN_HQTCSDLL\QUANCAFFE\obj\Debug\QUANCAFFE.fTKDoanhThu.resources
+F:\QUANCAFFE\NHOM8_DOAN_HQTCSDLL\QUANCAFFE\obj\Debug\QUANCAFFE.Properties.Resources.resources
+F:\QUANCAFFE\NHOM8_DOAN_HQTCSDLL\QUANCAFFE\obj\Debug\QUANCAFFE.csproj.GenerateResource.cache
+F:\QUANCAFFE\NHOM8_DOAN_HQTCSDLL\QUANCAFFE\obj\Debug\QUANCAFFE.csproj.CoreCompileInputs.cache
+F:\QUANCAFFE\NHOM8_DOAN_HQTCSDLL\QUANCAFFE\obj\Debug\QUANCAFFE.csproj.CopyComplete
+F:\QUANCAFFE\NHOM8_DOAN_HQTCSDLL\QUANCAFFE\obj\Debug\QUANCAFFE.exe
+F:\QUANCAFFE\NHOM8_DOAN_HQTCSDLL\QUANCAFFE\obj\Debug\QUANCAFFE.pdb

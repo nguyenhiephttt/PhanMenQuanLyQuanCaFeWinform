@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QUANCAFFEModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="CTHoaDon">
+    <Key>
+      <PropertyRef Name="IDHoaDon" />
+      <PropertyRef Name="IDDoUong" />
+    </Key>
+    <Property Name="IDHoaDon" Type="Int32" Nullable="false" />
+    <Property Name="IDDoUong" Type="Int32" Nullable="false" />
+    <Property Name="SoLuong" Type="Int32" Nullable="false" />
+    <Property Name="GiaGoc" Type="Double" Nullable="false" />
+    <Property Name="GiaBan" Type="Double" Nullable="false" />
+    <NavigationProperty Name="DoUong" Relationship="Self.FK_CTHoaDon_DoUong" FromRole="CTHoaDon" ToRole="DoUong" />
+  </EntityType>
+  <EntityType Name="DoUong">
+    <Key>
+      <PropertyRef Name="IDDoUong" />
+    </Key>
+    <Property Name="IDDoUong" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TenDoUong" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="IDLoai" Type="Int32" Nullable="false" />
+    <Property Name="SoLuong" Type="Int32" Nullable="false" />
+    <Property Name="GiaGoc" Type="Double" Nullable="false" />
+    <Property Name="GiaBan" Type="Double" Nullable="false" />
+    <Property Name="NgayNhapHang" Type="DateTime" Precision="0" />
+    <Property Name="DonViTinh" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="CTHoaDons" Relationship="Self.FK_CTHoaDon_DoUong" FromRole="DoUong" ToRole="CTHoaDon" />
+  </EntityType>
+  <Association Name="FK_CTHoaDon_DoUong">
+    <End Role="DoUong" Type="Self.DoUong" Multiplicity="1" />
+    <End Role="CTHoaDon" Type="Self.CTHoaDon" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DoUong">
+        <PropertyRef Name="IDDoUong" />
+      </Principal>
+      <Dependent Role="CTHoaDon">
+        <PropertyRef Name="IDDoUong" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="QUANCAFFEEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="CTHoaDons" EntityType="Self.CTHoaDon" />
+    <EntitySet Name="DoUongs" EntityType="Self.DoUong" />
+    <AssociationSet Name="FK_CTHoaDon_DoUong" Association="Self.FK_CTHoaDon_DoUong">
+      <End Role="DoUong" EntitySet="DoUongs" />
+      <End Role="CTHoaDon" EntitySet="CTHoaDons" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QUANCAFFEModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="CTHoaDon">
+    <Key>
+      <PropertyRef Name="IDHoaDon" />
+      <PropertyRef Name="IDDoUong" />
+    </Key>
+    <Property Name="IDHoaDon" Type="int" Nullable="false" />
+    <Property Name="IDDoUong" Type="int" Nullable="false" />
+    <Property Name="SoLuong" Type="int" Nullable="false" />
+    <Property Name="GiaGoc" Type="float" Nullable="false" />
+    <Property Name="GiaBan" Type="float" Nullable="false" />
+  </EntityType>
+  <EntityType Name="DoUong">
+    <Key>
+      <PropertyRef Name="IDDoUong" />
+    </Key>
+    <Property Name="IDDoUong" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TenDoUong" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="IDLoai" Type="int" Nullable="false" />
+    <Property Name="SoLuong" Type="int" Nullable="false" />
+    <Property Name="GiaGoc" Type="float" Nullable="false" />
+    <Property Name="GiaBan" Type="float" Nullable="false" />
+    <Property Name="NgayNhapHang" Type="date" />
+    <Property Name="DonViTinh" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK_CTHoaDon_DoUong">
+    <End Role="DoUong" Type="Self.DoUong" Multiplicity="1" />
+    <End Role="CTHoaDon" Type="Self.CTHoaDon" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DoUong">
+        <PropertyRef Name="IDDoUong" />
+      </Principal>
+      <Dependent Role="CTHoaDon">
+        <PropertyRef Name="IDDoUong" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="QUANCAFFEModelStoreContainer">
+    <EntitySet Name="CTHoaDon" EntityType="Self.CTHoaDon" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DoUong" EntityType="Self.DoUong" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_CTHoaDon_DoUong" Association="Self.FK_CTHoaDon_DoUong">
+      <End Role="DoUong" EntitySet="DoUong" />
+      <End Role="CTHoaDon" EntitySet="CTHoaDon" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

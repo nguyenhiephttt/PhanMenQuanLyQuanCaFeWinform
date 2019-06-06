@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="QUANCAFFEModelStoreContainer" CdmEntityContainer="QUANCAFFEEntities">
+    <EntitySetMapping Name="CTHoaDons">
+      <EntityTypeMapping TypeName="QUANCAFFEModel.CTHoaDon">
+        <MappingFragment StoreEntitySet="CTHoaDon">
+          <ScalarProperty Name="IDHoaDon" ColumnName="IDHoaDon" />
+          <ScalarProperty Name="IDDoUong" ColumnName="IDDoUong" />
+          <ScalarProperty Name="SoLuong" ColumnName="SoLuong" />
+          <ScalarProperty Name="GiaGoc" ColumnName="GiaGoc" />
+          <ScalarProperty Name="GiaBan" ColumnName="GiaBan" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DoUongs">
+      <EntityTypeMapping TypeName="QUANCAFFEModel.DoUong">
+        <MappingFragment StoreEntitySet="DoUong">
+          <ScalarProperty Name="IDDoUong" ColumnName="IDDoUong" />
+          <ScalarProperty Name="TenDoUong" ColumnName="TenDoUong" />
+          <ScalarProperty Name="IDLoai" ColumnName="IDLoai" />
+          <ScalarProperty Name="SoLuong" ColumnName="SoLuong" />
+          <ScalarProperty Name="GiaGoc" ColumnName="GiaGoc" />
+          <ScalarProperty Name="GiaBan" ColumnName="GiaBan" />
+          <ScalarProperty Name="NgayNhapHang" ColumnName="NgayNhapHang" />
+          <ScalarProperty Name="DonViTinh" ColumnName="DonViTinh" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
